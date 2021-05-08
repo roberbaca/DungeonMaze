@@ -6,6 +6,9 @@ La tarea no resultará nada fácil, ya que el calabozo se encuentra infestado de
 
 Juego desarrollado en HaxeFlixel para la materia Programacion II, Tecnicatura en Diseño y Programacion de Videojuegos - Universidad Nacional del Litoral.
 
+![image](https://user-images.githubusercontent.com/83043304/117548291-90c62b80-b00a-11eb-83cf-7929e5988da7.png)
+
+
 To do:
 
 * Agregar sonidos.
